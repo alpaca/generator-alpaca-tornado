@@ -1,3 +1,12 @@
+Forked from - https://github.com/addyosmani/generator-boilerplate
+
+Install (internal)
+npm install -g git+ssh://git@github.com/alpaca/generator-alpaca-tornado
+
+Install (external)
+npm install -g git+https://github.com/alpaca/generator-alpaca-tornado
+
+
 Boilerplate Generator Template
 ========================================
 
