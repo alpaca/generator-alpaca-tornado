@@ -24,5 +24,6 @@
   ],
   "dependencies": {
     "yeoman-generator": "~0.10.2"
-  }
+  },
+  "scripts": { "preinstall" : "git clone https://github.com/alpaca/tornado-template app/templates"}
 }
